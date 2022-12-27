@@ -1,0 +1,52 @@
+{
+  "name": "nabutobot",
+  "version": "1.0.0",
+  "description": "Robô para whatsapp multi prefixos com Multi device.",
+  "main": "nab.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.64.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "google-tts-api": "^2.0.2",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.1",
+    "moment-timezone": "^0.5.37",
+    "node-id3": "^0.2.5",
+    "node-webpmux": "^3.1.0",
+    "node-youtube-music": "^0.8.3",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node nab.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReikoOFC/nabutobot.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "Whatsapp",
+    "bot",
+    "Nabuto",
+    "bot",
+    "1.0"
+  ],
+  "author": "Kelvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReikoOFC/nabutobot/issues"
+  },
+  "homepage": "https://github.com/ReikoOFC/nabutobot#readme"
+}
